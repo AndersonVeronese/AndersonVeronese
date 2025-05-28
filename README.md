@@ -11,7 +11,7 @@
   <a href="https://www.java.com/"><img height="48px" title="Java" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/></a>
   <a href="https://www.mysql.com/"><img height="48px" title="MySQL" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/></a>
   <a href="https://www.jetbrains.com/idea/"><img height="48px" title="IntelliJ IDEA" alt="Icone IntelliJ" src="https://skillicons.dev/icons?i=idea"/></a>
-  <a href="https://dbeaver.io/"><img height="48px" title="DBeaver" alt="Icone DBeaver" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/DBeaver_logo.svg"/></a>
+  <a href="https://dbeaver.io/"><img height="48px" title="DBeaver" alt="Icone DBeaver" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"/></a>
 </p>
 
 #### 📖 Currently Studying
